@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 4, Errors: 0, Skipped: 2, Time elapsed: 1.131 s <<< FAILURE! - in TestSuite
+setUp(com.syntax.testcases.LoginPageTest)  Time elapsed: 0.807 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Novruz Orayev\eclipse-workspace\TestNGFramework\src\test\resources\drivers\chromedriver
+
+tearDown(com.syntax.testcases.LoginPageTest)  Time elapsed: 0.807 s  <<< FAILURE!
+java.lang.NullPointerException
+
+setUp(com.syntax.testcases.LoginPageTest)  Time elapsed: 0.811 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\Novruz Orayev\eclipse-workspace\TestNGFramework\src\test\resources\drivers\chromedriver
+
+tearDown(com.syntax.testcases.LoginPageTest)  Time elapsed: 0.811 s  <<< FAILURE!
+java.lang.NullPointerException
+

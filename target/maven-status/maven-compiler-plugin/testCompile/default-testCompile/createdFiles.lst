@@ -1,0 +1,17 @@
+com\syntax\practise\ExcelFunctionTest.class
+com\syntax\pages\LoginPageWithoutPageFactory.class
+com\syntax\practise\ExcelReview.class
+com\syntax\utils\CommonMethods.class
+com\syntax\utils\ExcelUtility.class
+com\syntax\pages\HomePage.class
+com\syntax\practise\ExcelWriteDemo.class
+com\syntax\utils\BaseClass.class
+com\syntax\pages\LoginPage.class
+com\syntax\utils\Listeners.class
+com\syntax\testcases\AddEmployeePageTest.class
+com\syntax\utils\Constants.class
+com\syntax\testcases\LoginPageTest.class
+com\syntax\practise\ArrayReview.class
+com\syntax\utils\ConfigsReader.class
+com\syntax\practise\ExcelDemo.class
+com\syntax\pages\AddEmployeePage.class
